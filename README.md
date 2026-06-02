@@ -1,4 +1,4 @@
-# EasyShell—readme1
+# EasyShell—readme
 
 ## 项目说明
 EasyShell 是一个功能强大、现代化、跨平台的多协议客户端。
